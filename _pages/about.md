@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guanxiong Sun's homepage."
+title: "Xi Wang's homepage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
