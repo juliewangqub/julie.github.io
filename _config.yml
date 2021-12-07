@@ -86,7 +86,7 @@ author:
   location         : "United Kindom"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://pure.qub.ac.uk/en/persons/xi-wang"
   email            : "xwang26@qub.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  pure             : "https://pure.qub.ac.uk/en/persons/xi-wang"
 
 
 # Reading Files
