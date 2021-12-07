@@ -6,11 +6,11 @@ excerpt: 'This   paper   presents   the   results   of   a   study   that   eval
 date: 2020-12-04
 venue: 'Journal of Audio-visual Translation'
 paperurl: 'https://doi.org/10.47476/jat.v3i2.2020.124'
-citation: 'Wang, X., Crookes, D., Harding, S., and Johnston, D. (2020). Evaluating Audio Description and BPS Visitor Experience in Titanic Belfast. <i>Journal of Audio�visual Translation, 3(2), 246-263.</i>.'
+citation: 'Wang, X., Crookes, D., Harding, S., and Johnston, D. (2020). Evaluating Audio Description and BPS Visitor Experience in Titanic Belfast. <i>Journal of Audio-visual Translation, 3(2), 246-263.</i>.'
 ---
 
 <a href='https://doi.org/10.47476/jat.v3i2.2020.124'>Download paper here</a>
 
 This   paper   presents   the   results   of   a   study   that   evaluates   audio description  (AD)  and  visitor  experience  with  a  group  of  blind  and partially sighted (BPS) visitors to a real-world visitor attraction—Titanic Belfast. We apply the 10-facet model ofvisitor experience of Packer and Ballantyne  (2016) for  the  first  time  in  the  context  of  accessibility,  and through  this  we  highlight  accessibility  issues  which  arose  during  the study.  We  identify  two  categories  in  our  qualitative  analysis  that  the model  (Packer  &amp;  Ballantyne,  2016)  cannot  cover.  We  also  model  the factors  that  influence  visitor  experience  and  apply  them  to  the  later approach of Packer, Ballantyne, &amp; Bond’s (2018) Dimensions of Visitor Experience  (DoVE)  Adjective  Checklist.The checklist  is  based  on  their previous    10-facet    model,and   translated    and    refined    into    15 dimensions. Although the DoVE checklist is notspecifically designed for the    context    of    accessibility,    we    found    that    it    is    sufficiently comprehensive  to  model  accessibilityaspects  of  the  museum  AD  and visitor experience for BPS visitors.
 
-Recommended citation: Wang, X., Crookes, D., Harding, S., and Johnston, D. (2020). Evaluating Audio Description and BPS Visitor Experience in Titanic Belfast. <i>Journal of Audio�visual Translation, 3(2), 246-263.</i>.
+Recommended citation: Wang, X., Crookes, D., Harding, S., and Johnston, D. (2020). Evaluating Audio Description and BPS Visitor Experience in Titanic Belfast. <i>Journal of Audio-visual Translation, 3(2), 246-263.</i>.
